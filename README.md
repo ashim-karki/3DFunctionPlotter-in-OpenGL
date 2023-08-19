@@ -9,9 +9,9 @@
 | ---------------------------- | -------  
 | Capture/Release Mouse 	     | X       
 | Camera Forward	             | W       
-| Camera Left	                 | A       	         
-| Camera Right	               | D       	 
-| Camera Backward	             | S       	
+| Camera Left	                 | A 
+| Camera Backward	             | S 
+| Camera Right	               | D       	       	
 | Sombrero Function	           | 1       	
 | Wave Function	               | 2       
 | Torus Function	             | 3       

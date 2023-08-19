@@ -55,6 +55,6 @@
 
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/b8b40d7b-1fe9-413c-9aa4-1b8862121700)
 
+<p><b>Turn off wireframe mode to get a solid figure. Press X to releases cursor</b></p>
 
-
-
+![WireframeOff-01](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/edfb1349-09cd-408d-9c36-dba0608c1d45)

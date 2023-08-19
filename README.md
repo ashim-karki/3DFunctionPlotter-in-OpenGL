@@ -23,6 +23,10 @@
 
 <h3>Screenshots:</h3>
 <p><b>Sombrero function</b></p>
+
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/de573019-75e5-42f9-9a26-b5af0be33353)
 
-<p><b>Sombrero function</b></p>
+<p><b>Wave function</b></p>
+
+![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/de21141c-e83b-4171-9308-ad124c58cfee)
+

@@ -43,7 +43,7 @@
 
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/270e7bd2-9b14-4f92-a88e-e0a99583caf6)
 
-<p><b>Letter O Function</b></p>
+<p><b>Letter O</b></p>
 
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/00304ed7-b8c6-45b0-8f96-135046488df9)
 

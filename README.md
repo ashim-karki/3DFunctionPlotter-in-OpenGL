@@ -43,7 +43,7 @@
 
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/4ccbf7ec-3a51-4022-91d8-4755a987d967)
 
-<p><b>Intersecting Fences Function</b></p>
+<p><b>Intersecting Fences</b></p>
 
 ![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/1f2d2b75-6e89-4524-86fc-88aeb4df39c6)
 

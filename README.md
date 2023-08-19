@@ -20,3 +20,7 @@
 | Letter O	                   | 6       
 | Top Hat Function	           | 7       
 | Bumps Function	             | 8       
+
+<h3>Screenshots:</h3>
+<p><b>Sombrero function</b></p>
+![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/742b9994-833a-497d-8321-5b96ed3ca06e)

@@ -5,8 +5,8 @@
 
 <h3>Controls:</h3>
 
-| Action                       | Button      | 
-| ---------------------------- | -----------  
+| Action                       | Button       | 
+| ---------------------------- | ------------  
 | Capture/Release Mouse 	     | X       
 | Camera Forward	             | W       
 | Camera Left	                 | A 
@@ -29,5 +29,14 @@
 
 <p><b>Wave function</b></p>
 
-![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/de21141c-e83b-4171-9308-ad124c58cfee)
+![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/33740d95-06a6-400d-99d5-453645d0fcaa)
+
+<p><b>Torus function</b></p>
+
+![image](https://github.com/ashim-karki/3DFunctionPlotter-in-OpenGL/assets/86644466/4ccbf7ec-3a51-4022-91d8-4755a987d967)
+
+<p><b>Torus function</b></p>
+
+
+
 

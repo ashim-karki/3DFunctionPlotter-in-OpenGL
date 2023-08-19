@@ -5,8 +5,8 @@
 
 <h3>Controls:</h3>
 
-| Action                       | Button  | 
-| ---------------------------- | -------  
+| Action                       | Button      | 
+| ---------------------------- | -----------  
 | Capture/Release Mouse 	     | X       
 | Camera Forward	             | W       
 | Camera Left	                 | A 
@@ -20,6 +20,7 @@
 | Letter O	                   | 6       
 | Top Hat Function	           | 7       
 | Bumps Function	             | 8       
+| Change Parameters    	       | Arrow Keys
 
 <h3>Screenshots:</h3>
 <p><b>Sombrero function</b></p>
